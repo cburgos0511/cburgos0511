@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cburgos0511" alt="cburgos0511" /> </p>
 
-- 🔭 I’m currently working for **Node Centric**
+- 🔭 I’m currently working for **KeyData Dashboard**
 
-- 🌱 I’m currently learning **Vue, Gatsby and React Springs**
+- 🌱 I’m currently learning **All the cool stuff**
 
-- 👯 I’m looking to collaborate on **All things Js**
+- 👯 I’m looking to collaborate on **Some ok stuff**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cburgos0511](https://github.com/cburgos0511)
 
 - 📝 I would like to start writing articles [https://medium.com/](https://medium.com/)
 
-- 💬 Ask me about **React, SQL, Next.js and Javascript**
+- 💬 Ask me about **...**
 
 - 📫 How to reach me **cburgos0511@gmail.com**
 
